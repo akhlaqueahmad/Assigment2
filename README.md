@@ -1,7 +1,5 @@
 Assigment2
 ==========
-
-This R Programming Assignments
 makeVector <- function(x = numeric()) {
         m <- NULL
         set <- function(y) {
